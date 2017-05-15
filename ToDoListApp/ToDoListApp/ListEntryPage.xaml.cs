@@ -34,10 +34,6 @@ namespace ToDoListApp
             await Navigation.PopAsync();
         }
 
-        //void OnSpeakClicked(object sender, EventArgs e)
-        //{
-        //    var todoItem = (ToDoList)BindingContext;
-        //    DependencyService.Get<ITextToSpeech>().Speak(todoItem.Name + " " + todoItem.Notes);
-        //}
+ 
     }
 }

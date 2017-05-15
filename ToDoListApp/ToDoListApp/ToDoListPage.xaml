@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ToDoListApp.ToDoListPage"
-             Title="My List">
+             Title="My To Do List">
   <ContentPage.ToolbarItems>
 		<ToolbarItem Text="+" Clicked="OnItemAdded">
 			
